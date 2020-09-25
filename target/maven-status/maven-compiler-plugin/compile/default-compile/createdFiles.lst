@@ -1,0 +1,7 @@
+entities\Person_.class
+entities\Address.class
+entities\Address_.class
+entities\Fee.class
+entities\Fee_.class
+entities\Person.class
+entities\Tester.class
